@@ -1,7 +1,7 @@
-import { VehiclePage } from '@/containers'
+import { CepPage } from '@/containers'
 
 const Home = () => {
-  return <VehiclePage />
+  return <CepPage />
 }
 
 export default Home

@@ -1,10 +1,11 @@
 export const theme = {
   colors: {
-    primaryColor: ' #16151d',
-    secondaryColor: '#00c7d5',
-    freeSpeechRed: '#d50f00',
+    primaryColor: '#6228AE',
+    secondaryColor: '#28AEA5',
+    charlotte: ' #A5DCEA',
     white: '#ddd',
-    dark: '#242824'
+    dark: '#000',
+    shilo: '#D85D9B'
   },
   sizes: {
     xsmall: '8rem',
